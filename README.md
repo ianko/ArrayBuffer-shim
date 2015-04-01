@@ -5,7 +5,7 @@ ArrayBuffer shim
 
 A polyfill for ArrayBuffer implementation for old Node.js versions.
 
-Orinally created by [Takashi Toyoshima](https://github.com/toyoshim) on his [jslt](https://github.com/toyoshim/jslt) repository.
+Originally created by [Takashi Toyoshima](https://github.com/toyoshim) on his [jslt](https://github.com/toyoshim/jslt) repository.
 
 ## Install from npm
 
