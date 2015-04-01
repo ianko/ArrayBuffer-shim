@@ -1,0 +1,28 @@
+{
+  "name": "ArrayBuffer-shim",
+  "version": "0.3.1",
+  "author": "Takashi Toyoshima <toyoshim@gmail.com>",
+  "contributors": [{
+    "name": "Ianko Leite"
+  }],
+  "description": "ArrayBuffer compatible library for old (version < 0.5.5) node.js.",
+  "homepage": "https://github.com/ianko/ArrayBuffer-shim",
+  "main": "lib/ArrayBuffer.js",
+  "scripts": {
+    "test": "./tests/run_all.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ianko/ArrayBuffer-shim"
+  },
+  "keywords": [
+    "Array",
+    "Buffer",
+    "shim",
+    "rewrite"
+  ],
+  "license": "Copyright (c) 2012, Takashi Toyoshima <toyoshim@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/ianko/ArrayBuffer-shim/issues"
+  }
+}
